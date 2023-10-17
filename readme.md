@@ -1,4 +1,4 @@
-## DOMPDF Wrapper for Laravel
+## DOMPDF Wrapper for Laravel lol
 
 ### Laravel wrapper for [Dompdf HTML to PDF Converter](https://github.com/dompdf/dompdf)
 
